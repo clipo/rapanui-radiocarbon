@@ -6,8 +6,8 @@ This repository is intended to provide access to various tables of radiocarbon d
 ## Current Datasets
 
 ### Mulrooney 2013
-* Mulrooney-Appendix-Data.csv -- Mulrooney, M.A., 2013. An island-wide assessment of the chronology of settlement and land use on Rapa Nui (Easter Island) based on radiocarbon data. Journal of Archaeological Science 40, 4377–4399.
+* ./data/Mulrooney-Appendix-Data.csv -- Mulrooney, M.A., 2013. An island-wide assessment of the chronology of settlement and land use on Rapa Nui (Easter Island) based on radiocarbon data. Journal of Archaeological Science 40, 4377–4399.
 
 ## Lima et al. 2020
-* Lima-Et-Al-Data.csv -- Lima, M., E. M. Gayo, C. Latorre, et al. 2020Ecology of the Collapse of Rapa Nui Society. Proceedings of the Royal Society B: Biological Sciences 287(1929). Royal Society: 20200662.
+* ./data/Lima-Et-Al-Data.csv -- Lima, M., E. M. Gayo, C. Latorre, et al. 2020Ecology of the Collapse of Rapa Nui Society. Proceedings of the Royal Society B: Biological Sciences 287(1929). Royal Society: 20200662.
 

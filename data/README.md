@@ -6,3 +6,6 @@
 ** Note: the Lima et al. 2020 data consist of Class 1 and 2 dates from Mulrooney 2013 plus dates from Commendador et al. 2014.
 
 * ./Commendador-EtAl-2014-Original-Data.csv -- Commendador, A.S., Dudgeon, J.V., Fuller, B.T., Finney, B.P., 2014. Radiocarbon dating human skeletal material on Rapa Nui: evaluating the effect of uncertainty in marine-derived carbon. Radiocarbon 56, 277–294.
+
+* ./Stevenson-EtAl-2019-Original-Data.csv -- Stevenson, C.M., Williams, C., Carpenter, E., Hunt, C.S., Novak, S.W., 2019. Architecturally Modified Caves on Rapa Nui: Post-European Contact Ritual Spaces? Rapa Nui Journal 32, 1–36.
+

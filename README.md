@@ -10,4 +10,7 @@ This repository is intended to provide access to various tables of radiocarbon d
 
 ## Lima et al. 2020
 * ./data/Lima-Et-Al-2020-Original-Data.csv -- Lima, M., E. M. Gayo, C. Latorre, et al. 2020 Ecology of the Collapse of Rapa Nui Society. Proceedings of the Royal Society B: Biological Sciences 287(1929). Royal Society: 20200662.
+** Note: the Lima et al. 2020 data consist of Class 1 and Class 2 dates from Mulrooney 2013 plus dates from Commendador et al. 2014.
 
+## Commendador et al. 2014
+* ./data/Commendador-EtAl-2014-Original-Data.csv -- Commendador, A.S., Dudgeon, J.V., Fuller, B.T., Finney, B.P., 2014. Radiocarbon dating human skeletal material on Rapa Nui: evaluating the effect of uncertainty in marine-derived carbon. Radiocarbon 56, 277–294.

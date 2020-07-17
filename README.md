@@ -17,3 +17,6 @@ This repository is intended to provide access to various tables of radiocarbon d
 
 ## Stevenson et al. 2019
 * ./data/Stevenson-EtAl-2019-Original-Data.csv -- Stevenson, C.M., Williams, C., Carpenter, E., Hunt, C.S., Novak, S.W., 2019. Architecturally Modified Caves on Rapa Nui: Post-European Contact Ritual Spaces? Rapa Nui Journal 32, 1–36.
+
+## Simpson et al. 2018
+* ./data/Simpson-EtAl-2018-Original-Data.csv -- Toki (adze) and Pick Production During Peak Moai (Statue) Manufacture: Geochemical and radiometric analyses reveal prehistoric provenance, timing and use of Easter Island’s fine-grain basalt resources, 2018. . Journal of Pacific Archaeology 9, 12–34.

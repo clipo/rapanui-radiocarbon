@@ -11,3 +11,4 @@
 
 * ./Simpson-EtAl-2018-Original-Data.csv -- Toki (adze) and Pick Production During Peak Moai (Statue) Manufacture: Geochemical and radiometric analyses reveal prehistoric provenance, timing and use of Easter Island’s fine-grain basalt resources, 2018. . Journal of Pacific Archaeology 9, 12–34.
 
+* ./Sherwood-EtAl-2019-Original-Data.csv -- Sherwood, S.C., Van Tilburg, J.A., Barrier, C.R., Horrocks, M., Dunn, R.K., Ramírez-Aliaga, J.M., 2019. New excavations in Easter Island’s statue quarry: Soil fertility, site formation and chronology. Journal of Archaeological Science 111, 104994. https://doi.org/10.1016/j.jas.2019.104994

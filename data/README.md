@@ -12,3 +12,7 @@
 * ./Simpson-EtAl-2018-Original-Data.csv -- Toki (adze) and Pick Production During Peak Moai (Statue) Manufacture: Geochemical and radiometric analyses reveal prehistoric provenance, timing and use of Easter Island’s fine-grain basalt resources, 2018. . Journal of Pacific Archaeology 9, 12–34.
 
 * ./Sherwood-EtAl-2019-Original-Data.csv -- Sherwood, S.C., Van Tilburg, J.A., Barrier, C.R., Horrocks, M., Dunn, R.K., Ramírez-Aliaga, J.M., 2019. New excavations in Easter Island’s statue quarry: Soil fertility, site formation and chronology. Journal of Archaeological Science 111, 104994. https://doi.org/10.1016/j.jas.2019.104994
+
+* ./Stevenson-EtAl-2019-HivaHiva-Original-Data.csv - Stevenson, C.M., Ladefoged, T.N., Chadwick, O.A., 2019. Taking a Close Look at Ground Level: The Ancient Gardens and Population Dynamics on the Hiva Hiva Lava Flow, Rapa Nui, Chile, in: Haoa Cardinali, S., Ingersoll, K.B., Ingersoll Jr., D.W., Stevenson, C.M. (Eds.), Cultural and Environmental Change on Rapa Nui. Routledge, New York, pp. 1–23.
+
+* ./Vogt-and-Kühulem-2019-Original-Data.csv -- Vogt, B., Kühlem, A., 2019. New Rituals and Technology: By the Quebrada of Ava Ranga Uka A Toroke Hau, About Landscape Transformation and the Significance of Water and Trees, in: Ingersoll, K.B., Ingersoll Jr., D.W., Haoa Cardinali, S., Stevenson, C.M. (Eds.), Cultural and Environmental Change on Rapa Nui. Routledge, New York, p. 1-20.

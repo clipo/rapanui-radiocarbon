@@ -1,0 +1,12 @@
+UniqID,SiteName,Laboratory ID,Age,SD,DeltaR,DeltaRErr,pterrestrial,pmarine,Material,CalCurve,Unit,Level,Quadrangle,Easting,Northing,Quad_Easting,Quad_Northing
+1,Anakena Dune Site,Beta-196711,660,40,0,0,1,0,Wood charcoal,shcal20,1,8,35,666150.79,7004062.57,666671.1,7004650.85
+2,Anakena Dune Site,Beta-196712,690,60,0,0,1,0,Wood charcoal,shcal20,1,5,35,666150.79,7004062.57,666671.1,7004650.85
+3,Anakena Dune Site,Beta-196713,670,40,0,0,1,0,Wood charcoal,shcal20,1,8,35,666150.79,7004062.57,666671.1,7004650.85
+4,Anakena Dune Site,Beta-196714,600,60,0,0,1,0,Wood charcoal,shcal20,1,9,35,666150.79,7004062.57,666671.1,7004650.85
+5,Anakena Dune Site,Beta-196715,670,40,0,0,1,0,Wood charcoal,shcal20,1,11,35,666150.79,7004062.57,666671.1,7004650.85
+6,Anakena Dune Site,Beta-196716,720,60,0,0,1,0,Wood charcoal,shcal20,1,12,35,666150.79,7004062.57,666671.1,7004650.85
+7,Anakena Dune Site,Beta-209903,870,80,0,0,1,0,Wood charcoal,shcal20,5,Base,35,666150.79,7004062.57,666671.1,7004650.85
+8,Anakena Dune Site,Beta-209904,870,40,0,0,1,0,Wood charcoal,shcal20,5,Base,35,666150.79,7004062.57,666671.1,7004650.85
+9,Anakena Dune Site,OxA-38492,238,20,0,0,0.5,0.5,Rat bone,shcal20,1,4,35,666150.79,7004062.57,666671.1,7004650.85
+10,Anakena Dune Site,OxA-38493,608,20,0,0,0.5,0.5,Rat bone,shcal20,1,5,35,666150.79,7004062.57,666671.1,7004650.85
+11,Anakena Dune Site,OxA-38707,292,19,0,0,0.5,0.5,Rat bone,shcal20,1,4,35,666150.79,7004062.57,666671.1,7004650.85

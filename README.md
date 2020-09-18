@@ -5,9 +5,8 @@ This repository is intended to provide access to various tables of radiocarbon d
 
 ## Current Datasets
 
-### Commendador et al. 2013 and 2014 ###
-* ./data/CommendadorEtal-2013-2014.csv -- Commendador, A.S., Dudgeon, J.V., Fuller, B.T., Finney, B.P., 2014. Radiocarbon dating human skeletal material on Rapa Nui: evaluating the effect of uncertainty in marine-derived carbon. Radiocarbon 56, 277–294.
-Commendador, A.S., Finney, B.P., Fuller, B.T., Tromp, M., Dudgeon, J.V., 2019. Multiproxy isotopic analyses of human skeletal material from Rapa Nui: Evaluating the evidence from carbonates, bulk collagen, and amino acids. Am J Phys Anthropol ajpa.23851. https://doi.org/10.1002/ajpa.23851
+### Dinapoli et al 2020 
+* ./data/DinapoliEtAl-2020-ModelBasedApproach.csv -- DiNapoli, R.J., Rieth, T.M., Lipo, C.P., Hunt, T.L., 2020. A model-based approach to the tempo of “collapse”: The case of Rapa Nui (Easter Island). Journal of Archaeological Science 116, 105094. https://doi.org/10.1016/j.jas.2020.105094
 
 ### Hunt and Lipo 2006
 * ./data/HuntAndLipo-2006-Anakena-DuneExcavation.csv -- Hunt T.L., Lipo CP. 2006. Late colonization of Easter island. Science 311:1603–1606. https://doi.org/10.1126/science.1121879

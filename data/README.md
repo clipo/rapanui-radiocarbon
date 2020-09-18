@@ -1,5 +1,7 @@
 # Data References
 
+* ./DinapoliEtAl-2020-ModelBasedApproach.csv -- DiNapoli, R.J., Rieth, T.M., Lipo, C.P., Hunt, T.L., 2020. A model-based approach to the tempo of “collapse”: The case of Rapa Nui (Easter Island). Journal of Archaeological Science 116, 105094. https://doi.org/10.1016/j.jas.2020.105094
+
 * ./HuntAndLipo-2006-Anakena-DuneExcavation.csv -- Hunt T.L., Lipo CP. 2006. Late colonization of Easter island. Science 311:1603–1606. https://doi.org/10.1126/science.1121879
 
 * ./Mulrooney-Appendix-Data.csv -- Mulrooney, M.A., 2013. An island-wide assessment of the chronology of settlement and land use on Rapa Nui (Easter Island) based on radiocarbon data. Journal of Archaeological Science 40, 4377–4399.

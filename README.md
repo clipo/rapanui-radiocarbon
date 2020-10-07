@@ -10,6 +10,7 @@ This repository is intended to provide access to various tables of radiocarbon d
 
 ### Hunt and Lipo 2006
 * ./data/HuntAndLipo-2006-Anakena-DuneExcavation.csv -- Hunt T.L., Lipo CP. 2006. Late colonization of Easter island. Science 311:1603–1606. https://doi.org/10.1126/science.1121879
+** Note: the original Beta Analytic report for these dates is included here. 
 
 ### Mulrooney 2013
 * ./data/Mulrooney-Appendix-Data.csv -- Mulrooney, M.A., 2013. An island-wide assessment of the chronology of settlement and land use on Rapa Nui (Easter Island) based on radiocarbon data. Journal of Archaeological Science 40, 4377–4399.

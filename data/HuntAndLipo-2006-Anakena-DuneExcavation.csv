@@ -1,7 +1,7 @@
 UniqID,SiteName,Laboratory ID,Age,SD,DeltaR,DeltaRErr,pterrestrial,pmarine,Material,CalCurve,Unit,Level,Quadrangle,Easting,Northing,Quad_Easting,Quad_Northing
 1,Anakena Dune Site,Beta-196711,660,40,0,0,1,0,Wood charcoal,shcal20,1,8,35,666150.79,7004062.57,666671.1,7004650.85
 2,Anakena Dune Site,Beta-196712,680,60,0,0,1,0,Wood charcoal,shcal20,1,5,35,666150.79,7004062.57,666671.1,7004650.85
-3,Anakena Dune Site,Beta-196713,670,60,0,0,1,0,Wood charcoal,shcal20,1,8,35,666150.79,7004062.57,666671.1,7004650.85
+3,Anakena Dune Site,Beta-196713,670,40,0,0,1,0,Wood charcoal,shcal20,1,8,35,666150.79,7004062.57,666671.1,7004650.85
 4,Anakena Dune Site,Beta-196714,590,60,0,0,1,0,Wood charcoal,shcal20,1,9,35,666150.79,7004062.57,666671.1,7004650.85
 5,Anakena Dune Site,Beta-196715,710,40,0,0,1,0,Wood charcoal,shcal20,1,11,35,666150.79,7004062.57,666671.1,7004650.85
 6,Anakena Dune Site,Beta-196716,720,60,0,0,1,0,Wood charcoal,shcal20,1,12,35,666150.79,7004062.57,666671.1,7004650.85

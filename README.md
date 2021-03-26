@@ -1,9 +1,13 @@
 # rapanui-radiocarbon
 A repository of radiocarbon data for Rapa Nui
 
-This repository is intended to provide access to various tables of radiocarbon dates that exist for Rapa Nui. One challenge we have found in doing analyses of radiocarbon samples is that the data are often in tables as appendices but not included in an easy-to-share format (such as CSV). Thus when working on projects involving analyses of dates, one must painfully reenter the data. At the same time, many of these tables have errors in them as they reflect incorrectly coded data or typos. These problems mean that the data have to be updated/corrected. It is our intention for this repository to provide versions of the original data (so one can redo analyses as originally conducted by authors) but also corrected versions. 
+This repository is intended to provide access to various tables of radiocarbon dates that exist for Rapa Nui. One challenge we have found in doing analyses of radiocarbon samples is that the data are often in tables as appendices but not included in an easy-to-share format (such as CSV). Thus when working on projects involving analyses of dates, one must painfully reenter the data. At the same time, many of these tables have errors in them as they reflect incorrectly coded data or typos. These problems mean that the data have to be updated/corrected. It is our intention for this repository to provide versions of the original data (so one can redo analyses as originally conducted by authors) but also corrected versions. Note that some of the files report dates that are reported in other publications.
 
 ## Current Datasets
+
+### Khamnuevae et al 2018
+* [./data/Khamnuevae-EtAl-2018.csv](./data/Khamnuevae-EtAl-2018.csv) -- Khamnueva, S., Mieth, A., Dreibrodt, S., Out, W. A., Madella, M., & Bork, H.-R. (2018). Interpretation of prehistoric reddish pit fillings on Easter Island: A micromorphological perspective. Spanish Journal of Social Science, 8(2), 236–257.
+https://www.semanticscholar.org/paper/Interpretation-of-prehistoric-reddish-pit-fillings-Khamnueva-Mieth/d37140858411620109087b6d1e535dc2f536bef8
 
 ### Out et al 2020
 * [./data/OutEtAl-2020-RapaNuiPigments.csv](./data/OutEtAl-2020-RapaNuiPigments.csv) -- Out, W. A., Mieth, A., Pla-Rabés, S., Madella, M., Khamnueva-Wendt, S., Langan, C., et al. (2021). Prehistoric pigment production on Rapa Nui (Easter Island), c. AD 1200–1650: New insights from Vaipú and Poike based on phytoliths, diatoms and 14 C dating. The Holocene, 31(4), 592–606. 

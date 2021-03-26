@@ -1,5 +1,7 @@
 # Data References
 
+* ./MulrooneyEtAl-2021-OriginalData.csv -- Mulrooney, M., Van Tilburg, J. A., Horn, A., & McCoy, P. C. (2021). Refining the Chronology of Rapa Nui (Easter Island) Settlement. Journal of Pacific Archaeology. https://pacificarchaeology.org/index.php/journal/article/view/318
+ 
 * ./DinapoliEtAl-2020-ModelBasedApproach.csv -- DiNapoli, R.J., Rieth, T.M., Lipo, C.P., Hunt, T.L., 2020. A model-based approach to the tempo of “collapse”: The case of Rapa Nui (Easter Island). Journal of Archaeological Science 116, 105094. https://doi.org/10.1016/j.jas.2020.105094
 
 * ./HuntAndLipo-2006-Anakena-DuneExcavation.csv -- Hunt T.L., Lipo CP. 2006. Late colonization of Easter island. Science 311:1603–1606. https://doi.org/10.1126/science.1121879 ** Note: these data have been updated to reflect what was originally reported by Beta Analytic (the SD for 196713 was listed as +/- 60 when it should have been +/- 40. The Beta Analytic report is here: https://github.com/clipo/rapanui-radiocarbon/blob/master/data/Hunt-2004-AnakenaDates-BetaAnalyticReport.pdf (Hunt-2004-AnakenaDates-BetaAnalyticReport.pdf) Note: 3 new dates have been added to this list from Oxford (measured on rattus exulans bone from the Anakena excavation.). These Oxford report for these dates is here: https://github.com/clipo/rapanui-radiocarbon/blob/master/data/Oxford-Radiocarbon%20Report%20-%20Anakena%20Rat%20Bone%20-%202020%20-%20P46483-85.pdf 

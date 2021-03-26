@@ -5,7 +5,11 @@ This repository is intended to provide access to various tables of radiocarbon d
 
 ## Current Datasets
 
-## Mulrooney et al 2021
+### Out et al 2020
+* ./data/OutEtAl-2020-RapaNuiPigments.csv -- Out, W. A., Mieth, A., Pla-Rabés, S., Madella, M., Khamnueva-Wendt, S., Langan, C., et al. (2021). Prehistoric pigment production on Rapa Nui (Easter Island), c. AD 1200–1650: New insights from Vaipú and Poike based on phytoliths, diatoms and 14 C dating. The Holocene, 31(4), 592–606. 
+https://doi.org/10.1177/0959683620981671
+
+### Mulrooney et al 2021
 * ./data/MulrooneyEtAl-2021-OriginalData.csv --  Mulrooney, M., Van Tilburg, J. A., Horn, A., & McCoy, P. C. (2021). Refining the Chronology of Rapa Nui (Easter Island) Settlement. Journal of Pacific Archaeology. https://pacificarchaeology.org/index.php/journal/article/view/318
 
 ### Dinapoli et al 2020 

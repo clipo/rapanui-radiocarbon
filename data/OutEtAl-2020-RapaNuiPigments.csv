@@ -1,0 +1,22 @@
+﻿Lab_Number,Location,Depth,Material,Quad,Original_Publication,δ13C,Age,Reference,CRA,SD,Notes
+KIA-49033,Vaipú East; section 1; filling pit 2b (HK9),0.16,Carbonized plant material,17,Out et al 2020,-12.39,443 +/- 28,Out et al 2020,443,28,
+Beta-321021,Vaipú East; section 1; filling pit 2b (HK9),0.16,Carbonized plant material,17,Out et al 2020,-25.1,320 +/- 30,Out et al 2020,1204,23,Same fragment as KIA-46358
+KIA-46358,Vaipú East; section 1; filling pit 2b (HK9),0.16,Carbonized plant material,17,Khamnueva et al. (2018) and Mieth et al. (2019),-21.14,614 +/- 22,Out et al 2020,579,22,Same fragment as Beta-321021
+KIA-48429 a,Vaipú East; section 1; pit pre-2b filled with ash below pit 2b (HK8),0.4,Carbonized plant material,17,Out et al 2020,-28.21,690 +/- 19,Out et al 2020,690,19,
+KIA-48429 b,Vaipú East; section 1; pit pre-2b filled with ash below pit 2b (HK8) ,0.4,Carbonized plant material,17,Khamnueva et al. (2018) and Mieth et al. (2019),-27.78,690 +/- 19,Out et al 2020,690,19,
+KIA-46357,Vaipú East; section 1; pit pre-2b filled with ash below pit 2b (HK8),0.4,Carbonized plant material,17,Khamnueva et al. (2018) and Mieth et al. (2019),-20.10,1204 +/- 23,Out et al 2020,1204,23,Old wood-effect or use of old material?
+KIA-48428,Vaipú East; section 1; fluvial sediment 5 (HK6),0.45,Carbonized plant material,17,Khamnueva et al. (2018) and Mieth et al. (2019),-27.92,579 +/- 22,Out et al 2020,579,22,
+KIA-48427,Vaipú East; section 1; fluvial sediment 3 (HK5),0.86,Carbonized plant material,17,Out et al 2020,-25.02,1399 +/- 24,Out et al 2020,1399,24,"Intrusion of eroded, old material presumed. "
+KIA-48426 a,Vaipú East; section 1; filling pit 1 (HK3),1.46,Carbonized plant material,17,Out et al 2020,-23.61,807 +/- 17,Out et al 2020,807,17,
+KIA-48426 b,Vaipú East; section 1; filling pit 1 (HK3),1.46,Carbonized plant material,17,Out et al 2020,-24.00,807 +/- 17,Out et al 2020,807,17,
+Beta-321020,Vaipú East; section 1; filling pit 1 (HK3),1.46,Carbonized plant material,17,Out et al 2020,-27.1,680 +/- 30,Out et al 2020,680,30,Same fragment as KIA-46356
+KIA-46356 a,Vaipú East; section 1; filling pit 1 (HK3),1.46,Carbonized plant material,17,Out et al 2020,-28.09,1042 +/- 20,Out et al 2020,1042,20,Same fragment as Beta-321020
+KIA-46356 b,Vaipú East; section 1; filling pit 1 (HK3),-,Carbonized plant material,17,Out et al 2020,-27.97,,Out et al 2020,1042,20,
+KIA-46356 c,Vaipú East; section 1; filling pit 1 (HK3),-,Carbonized plant material,17,Out et al 2020,-26.42,,Out et al 2020,1042,20,
+Beta-405895,Vaipú West (2014); section 2; horizontal section (spit) of pit with reddish filling (HK1),0.05,"Palm nut, endocarp",17,Out et al 2020,-20.5,570 +/- 30,Out et al 2020,570,30,
+Beta-405896,Vaipú West (2014); section 2; horizontal section (spit) of pit with reddish filling (HK2),0.05,"Palm nut, endocarp",17,Out et al 2020,-20.4,590 +/-30,Out et al 2020,590,30,
+KIA-48500 a,Vaipú Central; section 1; fluvial sediment 3 overlying pits (HK2),0.1,Carbonized plant material,17,Out et al 2020,-26.23,666 +/- 16,Out et al 2020,666,16,
+KIA-48500 b,Vaipú Central; section 1; fluvial sediment 3 overlying pits (HK2),-,Carbonized plant material,17,Out et al 2020,-26.60,666 +/- 16,Out et al 2020,666,16,
+KIA-48501,Vaipú Central; section 1; fluvial sediment 3 underlying pits (HK1),0.83,Carbonized plant material,17,Out et al 2020,-24.48,784 +/- 21,Out et al 2020,784,21,
+KIA-48499,Vaipú Central; section 1; fluvial sediment 1 underlying pits (HK3),0.82,Carbonized plant material,17,Out et al 2020,-25.93 +/- 0.25,634 +/- 22,Out et al 2020,634,22,
+Beta-405897,Poike (2014); pit with pink filling; pit base,ca. 0.34,Carbonized plant material,23,Out et al 2020,-21.8,400 +/- 30,Out et al 2020,400,30,

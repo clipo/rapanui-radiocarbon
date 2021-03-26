@@ -1,5 +1,8 @@
 # Data References
 
+* [./Khamnuevae-EtAl-2018.csv](./Khamnuevae-EtAl-2018.csv) -- Khamnueva, S., Mieth, A., Dreibrodt, S., Out, W. A., Madella, M., & Bork, H.-R. (2018). Interpretation of prehistoric reddish pit fillings on Easter Island: A micromorphological perspective. Spanish Journal of Social Science, 8(2), 236–257.
+https://www.semanticscholar.org/paper/Interpretation-of-prehistoric-reddish-pit-fillings-Khamnueva-Mieth/d37140858411620109087b6d1e535dc2f536bef8
+
 * [./OutEtAl-2020-RapaNuiPigments.csv](./OutEtAl-2020-RapaNuiPigments.csv) -- Out, W. A., Mieth, A., Pla-Rabés, S., Madella, M., Khamnueva-Wendt, S., Langan, C., et al. (2021). Prehistoric pigment production on Rapa Nui (Easter Island), c. AD 1200–1650: New insights from Vaipú and Poike based on phytoliths, diatoms and 14 C dating. The Holocene, 31(4), 592–606. 
 https://journals.sagepub.com/doi/abs/10.1177/0959683620981671
 

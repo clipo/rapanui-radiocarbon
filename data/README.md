@@ -1,5 +1,7 @@
 # Data References
 
+* [./Ayers-1975-CulturalDyamics.csv](./Ayers-1975-CulturalDyamics.csv) -- Ayers, W. S. (1975). Easter Island: Investigations in prehsitory cultural dynamics. Columbia, SC: Unpublished Manuscript, University of South Carolina.
+
 * [./Khamnuevae-EtAl-2018.csv](./Khamnuevae-EtAl-2018.csv) -- Khamnueva, S., Mieth, A., Dreibrodt, S., Out, W. A., Madella, M., & Bork, H.-R. (2018). Interpretation of prehistoric reddish pit fillings on Easter Island: A micromorphological perspective. Spanish Journal of Social Science, 8(2), 236–257.
 https://www.semanticscholar.org/paper/Interpretation-of-prehistoric-reddish-pit-fillings-Khamnueva-Mieth/d37140858411620109087b6d1e535dc2f536bef8
 
